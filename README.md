@@ -1,3 +1,6 @@
-# teamMassign2
 
-This is assigment 2 for team M
+
+## Deploy to Google Cloud Run
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
